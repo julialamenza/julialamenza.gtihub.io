@@ -1,0 +1,14 @@
+
+/*
+!.gitignore
+!content/
+!*.toml
+!static/
+
+#OS
+.DS_Store
+
+# Ignore everything in the "content" directory,
+# and "themes" directories.
+content/*
+themes/*
