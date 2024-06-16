@@ -2,9 +2,7 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>http://julialamenza.github.io/</loc><lastmod>2024-06-16T11:41:03&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>http://julialamenza.github.io/posts/</loc><lastmod>2024-06-16T11:41:03&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>http://julialamenza.github.io/test/</loc><lastmod>2024-06-16T11:41:03&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>http://julialamenza.github.io/categories/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>http://julialamenza.github.io/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>http://julialamenza.github.io/offline/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>http://julialamenza.github.io/tags/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url></urlset>
