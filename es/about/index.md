@@ -1,0 +1,11 @@
+# Quien soy
+
+
+Ingeniera de Nube / SRE
+
+Soy una profesional apasionada por el mundo de SRE y DevOps, siempre dispuesta a integrar las últimas tecnologías con las necesidades del negocio de la manera más eficiente y tranquila posible. Mi área de especialización abarca una combinación de redes, seguridad y monitoreo en diversos entornos digitales, como contenedores y máquinas virtuales.
+
+He desempeñado un papel clave en asegurar que nuestros entornos digitales funcionen de manera eficiente y segura. En el ámbito técnico, poseo amplios conocimientos en Linux y Windows, y estoy preparada para afrontar cualquier desafío, desde la configuración de sistemas hasta la optimización de rendimiento. Mi objetivo es mantener la infraestructura de TI lista para cualquier eventualidad.
+
+Cuando no estoy inmersa en el trabajo tecnológico, disfruto viajando, conociendo nuevas personas y recopilando historias. Considero que la vida es demasiado corta para no aprovechar al máximo cada momento, tanto en línea como fuera de ella.
+
