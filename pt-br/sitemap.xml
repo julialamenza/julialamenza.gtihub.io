@@ -2,6 +2,19 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
+            <loc>http://julialamenza.github.io/posts/finops/</loc><lastmod>2024-10-28T20:00:57-03:00</lastmod><xhtml:link
+                        rel="alternate"
+                        hreflang="en"
+                        href="http://julialamenza.github.io/en/posts/finops/"
+                        /><xhtml:link
+                        rel="alternate"
+                        hreflang="es"
+                        href="http://julialamenza.github.io/es/posts/finops/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="pt-br"
+                    href="http://julialamenza.github.io/posts/finops/"
+                    /></url><url>
             <loc>http://julialamenza.github.io/posts/carreira/</loc><lastmod>2024-10-24T02:23:20-03:00</lastmod><xhtml:link
                         rel="alternate"
                         hreflang="en"
@@ -15,7 +28,7 @@
                     hreflang="pt-br"
                     href="http://julialamenza.github.io/posts/carreira/"
                     /></url><url>
-            <loc>http://julialamenza.github.io/</loc><lastmod>2024-10-24T02:23:20-03:00</lastmod><xhtml:link
+            <loc>http://julialamenza.github.io/</loc><lastmod>2024-10-28T20:00:57-03:00</lastmod><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="http://julialamenza.github.io/en/"
@@ -28,7 +41,7 @@
                     hreflang="pt-br"
                     href="http://julialamenza.github.io/"
                     /></url><url>
-            <loc>http://julialamenza.github.io/posts/</loc><lastmod>2024-10-24T02:23:20-03:00</lastmod><xhtml:link
+            <loc>http://julialamenza.github.io/posts/</loc><lastmod>2024-10-28T20:00:57-03:00</lastmod><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="http://julialamenza.github.io/en/posts/"
